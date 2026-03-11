@@ -43,8 +43,8 @@ ex) Week1/SwiftUI_Day1.md
 
 **커밋 메시지**
 ```
-[Category] 학습 내용 한 줄 요약
-ex) [SwiftUI] HStack, VStack, ZStack 레이아웃 기초
+[Category][Day{N}] 학습 내용 한 줄 요약
+ex) [SwiftUI][Day1] HStack, VStack, ZStack 레이아웃 기초
 ```
 
 ---
