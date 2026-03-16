@@ -23,6 +23,7 @@ DerivedData/
 # Swift Package Manager
 .build/
 .swiftpm/
+Package.resolved
 
 # CocoaPods
 Pods/
@@ -35,3 +36,11 @@ Carthage/Build/
 .DS_Store
 .AppleDouble
 .LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Thumbnails
+ehthumbs.db
+Thumbs.db
