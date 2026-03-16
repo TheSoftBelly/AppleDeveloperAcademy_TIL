@@ -30,6 +30,7 @@
 | Date | Category | Title |
 |------|----------|-------|
 | 2026.03.11 | SwiftUI | [F1 앱 헤더 만들기 - HStack, VStack, ZStack, Spacer](./Week1/SwiftUI_Day1.md) |
+| 2026.03.12 | SwiftUI | [F1 앱 홈화면 완성 - TabView, MapBox, Box 컴포넌트](./Week1/SwiftUI_Day2.md) |
 
 ---
 
