@@ -16,11 +16,16 @@ struct HomeView: View {
             
             VStack(alignment: .leading) {
                 Header()
+                    .padding(10)
+                MapBox()
+
+                Box()
                 Spacer() // 헤더를 위로 올려버림
             } // 헤더와 스페이스를 주고 왼쪽부터 정렬을 함 + .leading이 해당 역할을 한다
         }
     }
 }
+
 
 #Preview {
     HomeView()

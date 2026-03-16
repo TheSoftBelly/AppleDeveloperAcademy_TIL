@@ -7,9 +7,6 @@
 
 import Foundation
 import SwiftUI
-extension Color {
-    static let f1Red = Color(red: 225/255, green: 6/255, blue: 0/255)
-} // 커스텀 컬러지정 방법이다. 내부 파일에서의
 
 struct Header: View {
     var body: some View {
@@ -45,7 +42,7 @@ struct Header: View {
             ZStack {
                 RoundedRectangle(cornerRadius: 10)
                     .frame(width: 50, height: 50)
-                    .foregroundColor(.f1Red.opacity(0.3))
+                    .foregroundColor(.boxRedBack.opacity(0.3))
                 Button(action: {}) {
                     Image(systemName: "gearshape")// SF Symbols를 사용해서 아이콘을 지정
                         .foregroundColor(.red)
