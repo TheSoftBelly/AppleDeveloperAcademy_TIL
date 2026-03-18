@@ -36,6 +36,7 @@
 | 2026.03.17 | Week2 | SwiftUI | [DiceView - @State, Button, ForEach, withAnimation](./Week2/SwiftUI_Day5.md) |
 | 2026.03.17 | Week2 | SwiftUI | [Pick-A-Pal - List, TextField, @State 배열, 옵셔널](./Week2/SwiftUI_Day6.md) |
 | 2026.03.18 | Week2 | SwiftUI | [ScoreKeeper - Identifiable, Stepper, ForEach 바인딩](./Week2/SwiftUI_Day7.md) |
+| 2026.03.18 | Week2 | SwiftUI | [ScoreKeeper 심화 - enum 상태머신, @Binding, Grid, Picker](./Week2/SwiftUI_Day8.md) |
 
 ---
 
